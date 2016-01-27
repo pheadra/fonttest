@@ -1,0 +1,113 @@
+
+@font-face {
+ font-family: 'Noto Sans CJKKr Light';
+ src: url('../fonts/NotoSansCJKkr-Light.eot');
+ src: url('../fonts/NotoSansCJKkr-Light.eot') format('embedded-opentype'),
+ url('../fonts/NotoSansCJKkr-Light.woff') format('woff'),
+ url('../fonts/NotoSansCJKkr-Light.otf') format('truetype');
+}
+
+/* 맑은 고딕 */
+@font-face {
+ font-family: 'MalgunGothic-Regular';
+ src: url('../fonts/MalgunGothic-Regular.eot');
+ src: url('../fonts/MalgunGothic-Regular.eot') format('embedded-opentype'),
+ url('../fonts/MalgunGothic-Regular.woff') format('woff'),
+ url('../fonts/MalgunGothic-Regular.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'MalgunGothic-Bold';
+ src: url('../fonts/MalgunGothic-Bold.eot');
+ src: url('../fonts/MalgunGothic-Bold.eot') format('embedded-opentype'),
+ url('../fonts/MalgunGothic-Bold.woff') format('woff'),
+ url('../fonts/MalgunGothic-Bold.otf') format('truetype');
+}
+
+/* 나눔바른고딕 */
+@font-face {
+  font-family: 'Nanum Barun Gothic UltraLight';
+  font-style: normal;
+  font-weight: 200;
+  src: url(../fonts/NanumBarunGothicUltraLight.eot);
+  src: local('Nanum Barun Gothic UltraLight'),
+       local('NanumBarunGothicUltraLight'),
+       url(../fonts/NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/NanumBarunGothicUltraLight.woff2) format('woff2'),
+       url(../fonts/NanumBarunGothicUltraLight.woff) format('woff'),
+       url(../fonts/NanumBarunGothicUltraLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic Light';
+  font-style: normal;
+  font-weight: 300;
+  src: url(./NanumBarunGothicLight.eot);
+  src: local('Nanum Barun Gothic Light'),
+       local('NanumBarunGothicLight'),
+       url(../fonts/NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/NanumBarunGothicLight.woff2) format('woff2'),
+       url(../fonts/NanumBarunGothicLight.woff) format('woff'),
+       url(../fonts/NanumBarunGothicLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./NanumBarunGothic.eot);
+  src: local('Nanum Barun Gothic'),
+       local('NanumBarunGothic'),
+       url(./NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+       url(./NanumBarunGothic.woff2) format('woff2'),
+       url(./NanumBarunGothic.woff) format('woff'),
+       url(./NanumBarunGothic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum Barun Gothic Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/NanumBarunGothicBold.eot);
+  src: local('Nanum Barun Gothic Bold'),
+       local('NanumBarunGothicBold'),
+       url(../fonts/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/NanumBarunGothicBold.woff2) format('woff2'),
+       url(../fonts/NanumBarunGothicBold.woff) format('woff'),
+       url(../fonts/NanumBarunGothicBold.ttf) format('truetype');
+}
+
+/*TitilliumWeb*/
+@font-face {
+ font-family: 'TitilliumWeb-Light';
+ src: url('../fonts/titillium/TitilliumWeb-Light.eot');
+ src: url('../fonts/titillium/TitilliumWeb-Light.eot') format('embedded-opentype'),
+ url('../fonts/titillium/TitilliumWeb-Light.woff') format('woff'),
+ url('../fonts/titillium/TitilliumWeb-Light.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'TitilliumWeb-Regular';
+ src: url('../fonts/titillium/TitilliumWeb-Regular.eot');
+ src: url('../fonts/titillium/TitilliumWeb-Regular.eot') format('embedded-opentype'),
+ url('../fonts/titillium/TitilliumWeb-Regular.woff') format('woff'),
+ url('../fonts/titillium/TitilliumWeb-Regular.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'TitilliumWeb-SemiBold';
+ src: url('../fonts/titillium/TitilliumWeb-SemiBold.eot');
+ src: url('../fonts/titillium/TitilliumWeb-SemiBold.eot') format('embedded-opentype'),
+ url('../fonts/titillium/TitilliumWeb-SemiBold.woff') format('woff'),
+ url('../fonts/titillium/TitilliumWeb-SemiBold.otf') format('truetype');
+}
+
+@font-face {
+ font-family: 'TitilliumWeb-Bold';
+ src: url('../fonts/titillium/TitilliumWeb-Bold.eot');
+ src: url('../fonts/titillium/TitilliumWeb-Bold.eot') format('embedded-opentype'),
+ url('../fonts/titillium/TitilliumWeb-Bold.woff') format('woff'),
+ url('../fonts/titillium/TitilliumWeb-Bold.otf') format('truetype');
+}
+
+
