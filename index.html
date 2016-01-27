@@ -14,7 +14,8 @@
 	<script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.1/angular.min.js"></script>
-
+	<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
 	<script>
 angular.module('fontExample', [])
 .controller('ExampleController', ['$scope', function($scope){
@@ -28,6 +29,10 @@ angular.module('fontExample', [])
 </script>
 </head>
 <body>
+    <section class="page-header" style="margin:0 0">
+      <h1 class="project-name">WEB FONT TEST</h1>
+      <h2 class="project-tagline">web font test page</h2>
+    </section>
 <div class="container" ng-controller="ExampleController as example">
 	<div class="row">
 		<div class="col-md-6" style="border-right: solid #cccccc;"> 
